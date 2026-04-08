@@ -1,6 +1,7 @@
 # Banking-and-loan-lending-case-study
 Lending institutions process millions of dollars daily, but without clear visibility into borrower demographics and portfolio health, they expose themselves to massive uncalculated risks.
-**📌 Project Overview
+
+**📌 Project Overview**
 
 This project is a comprehensive data analytics case study of a consumer loan portfolio. Analyzing over 38,600 loan applications accounting for $436 Million in funded capital, this dashboard transforms raw financial data into a strategic narrative. It is designed to empower executive decision-making, optimize targeted marketing, and identify the root causes of charge-off risks.
 
